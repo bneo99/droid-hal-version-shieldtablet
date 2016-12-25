@@ -7,7 +7,7 @@
 %define vendor_pretty Nvidia
 %define device_pretty Shield Tablet
 
-$ See ../droid-hal-version/droid-hal-device.inc for similar macros:
+# See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator 1
 %define have_led 1
 
